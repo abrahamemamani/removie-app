@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>playerpager.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B0C1F2945ABC10CD163BB97531F13B689B6A0D08</string>
+				<key>dateExpires</key>
+				<string>1/2/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B0C1F2945ABC10CD163BB97531F13B689B6A0D08</string>
+						<key>dateExpires</key>
+						<string>1/2/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Instabug.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>TSC7R3QY84</string>
+						<key>name</key>
+						<string>Player Pager Corp</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TSC7R3QY84.app.playerpager.app</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TSC7R3QY84</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>playerpager.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d5c74e2e-c4fa-4ae7-95ae-4b2a27994296</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: app.playerpager.app</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TSC7R3QY84</string>
+				<key>name</key>
+				<string>Player Pager Corp</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
